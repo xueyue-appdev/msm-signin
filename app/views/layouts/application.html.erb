@@ -28,6 +28,9 @@
       <li>
         <a href="/characters">Characters</a>
       </li>
+      <li>
+        <a href="/bookmarks">Bookmarks</a>
+      </li>
 
       <% if session.fetch(:user_id) == nil %>
         <li>
@@ -43,7 +46,7 @@
       <% end %>
 
     </ul>
-    
+
     <p><%= notice %></p>
     <p><%= alert %></p>
 

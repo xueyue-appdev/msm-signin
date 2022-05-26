@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+f50b8afb3ee2a7f9aa98b4de7daa81462f278bf7 refs/heads/dependabot/bundler/addressable-2.8.0
+4f5215713c8aa3c2be0b5745a949d69d84bad324 refs/heads/dependabot/bundler/git-1.11.0
+9cc140448947af71e1806d4418c0f684dfd67e01 refs/heads/dependabot/bundler/nokogiri-1.13.4
+88518b1d8c182b733cbd0e94bd662f3126a25498 refs/heads/dependabot/bundler/rack-2.2.3
+96772ea55c853fcc8aad884bb0d8c961cc49b8c0 refs/heads/dependabot/bundler/rake-13.0.1
+40e895811bfa07704e29cb755df0bbd3294474cc refs/heads/dependabot/bundler/yard-0.9.24
+21148e538e3b8e2f39c4a9e380b742b45c606d3f refs/heads/jw-dev-dep-remove
+1df98d7e18887550c46c47ea2affd043e656da6d refs/heads/jw-force-hashdiff-update
+4e596648aa4b98415b0ba85734de90eac39b14d1 refs/heads/jw-remove-git-commands
+395394d2db7879dd22253ef44f0d85d12803eb7c refs/heads/jw-remove-rails-dependencies
+9617ac8381df4308c35a50ceaee4e887f6849bbd refs/heads/jw-update-to-work-vscode-settings
+2934f2b774488c3fc030f4211bc0530e97b11d73 refs/heads/jw-use-environment-variable-for-token
+00b35c32bf97439065d6ea51469678cebb3cddc5 refs/heads/jw-use-oj-to-parse-json
+93e5954a4c7e0e23395644039d4bd26e2411a3c6 refs/heads/master
+00b35c32bf97439065d6ea51469678cebb3cddc5 refs/heads/ruby-assignments
+c9103c1ff750d57011ff7caada66f4b084eed229 refs/heads/ruby-spring2020
+0e7767e5abb7b5e98468e124e086d031e6d25e0e refs/tags/v0.0.1
+5252413c49ead8ad21ca456bf6650d92d54433d8 refs/tags/v0.0.2
+43f7d18e6d71da89fa71ffaf084dc347ecbb7832 refs/tags/v0.0.3
+d154a2be6e31820286bc7cb1bf6b2d63022369cf refs/tags/v0.0.3.pre.1
+60c308da2e4a35a8971b52d2f48726a8b1490369 refs/tags/v0.0.3.pre.2
+abb8380a701ddf96d6d019f0b04c5719a115be4e refs/tags/v0.0.3.pre.3

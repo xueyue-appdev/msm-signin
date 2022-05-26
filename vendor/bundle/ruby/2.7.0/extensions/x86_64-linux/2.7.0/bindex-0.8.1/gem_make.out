@@ -1,0 +1,15 @@
+current directory: /base-rails/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/gitpod/.rvm/rubies/ruby-2.7.3/bin/ruby -I /home/gitpod/.rvm/rubies/ruby-2.7.3/lib/ruby/2.7.0 -r ./siteconf20220517-7-6x0s6c.rb extconf.rb
+creating Makefile
+
+current directory: /base-rails/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /base-rails/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /base-rails/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20220517-7-1yv3j6t/skiptrace/internal

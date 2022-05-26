@@ -21,6 +21,6 @@ class Movie < ApplicationRecord
     :source => :actor
   })
 
-  validate(:title, { :presence => true})
+  validates(:title, { :presence => true})
 
 end

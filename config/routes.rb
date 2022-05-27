@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-
+  get("/", { :controller => "movies", :action => "index" })
   # Routes for the Bookmark resource:
 
   get("/add_bookmark", { :controller => "movies", :action =>"add_user_bookmark"})

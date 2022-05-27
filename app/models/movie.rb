@@ -21,6 +21,8 @@ class Movie < ApplicationRecord
     :source => :actor
   })
 
-  validates(:title, { :presence => true})
+  has_many :bookmarks
+
+  # validates(:title, { :presence => true})
 
 end
